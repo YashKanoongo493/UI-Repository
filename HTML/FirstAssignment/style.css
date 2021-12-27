@@ -1,0 +1,27 @@
+.leftTop{
+   float:left;
+   position:relative;
+}
+
+
+
+.RightTop{
+ float: right;
+ position:relative;
+}
+
+
+
+.redText{
+    color: red;
+
+}
+
+.greenText{
+    color: rgba(11, 165, 18, 0.973)
+}
+
+.Hyperlinks {
+     margin-top: 60px;
+}
+
